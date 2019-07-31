@@ -1,2 +1,2 @@
 # test-devops
-testing purpose
+Learning and testing purpose
